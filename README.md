@@ -1,3 +1,13 @@
+<div align="center">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- WAVE HEADER -->
+<!--                     WAVE HEADER                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:c9184a,75:ff6b9d,100:ffb3c6&height=230&section=header&text=Hi%20There!%20I'm%20Ujjaini%20&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=ML%20/%20AI%20Engineer%20•%20Building%20Intelligent%20Systems&descSize=17&descColor=ffb3c6&descAlignY=56" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=25&pause=1000&color=F7C6F7&background=F0FFF400&center=true&width=435&lines=AI%2FML;DEEP+LEARNING;NLP;COMPUTER+VISION;OPENN+SOURCE+CONTRIBUTER" alt="Typing SVG" /></a>
+<p align="center">
+🚀 Where code meets intelligence </p>
+
 # 💫 About Me:
 ML/AI Engineer | Deep Learning • NLP • Computer Vision • Building Intelligent Systems<br><br>
 
